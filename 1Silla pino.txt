@@ -1,0 +1,3 @@
+Silla pino;3
+Silla pino;2
+Silla pino;1

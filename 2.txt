@@ -1,0 +1,2 @@
+2Vidrio;1
+2Ceramica;2

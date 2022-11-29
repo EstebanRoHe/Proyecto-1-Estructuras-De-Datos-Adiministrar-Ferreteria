@@ -1,0 +1,3 @@
+puerta pino;3
+puerta pino;2
+puerta pino;1

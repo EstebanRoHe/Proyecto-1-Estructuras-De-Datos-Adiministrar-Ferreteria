@@ -1,0 +1,3 @@
+3;Heredia;
+2;San Jose;
+1;Alajuela;
